@@ -1,3 +1,9 @@
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:ffd166&height=200&section=header&text=Hospitality%20Performance%20Insights%20&fontSize=45&fontColor=ffffff&animation=fadeIn"
+  />
+</div>
+
 # 🏨 AtliQ Hospitality Revenue & Booking Analytics – Power BI Dashboard
 
 ## 📌 Project Overview
